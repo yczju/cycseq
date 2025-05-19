@@ -68,7 +68,7 @@ For GPU support, please ensure you have installed the correct CUDA version and c
 
 ## Data Preparation
 
-Please refer to the `data_preparation.sh` for detailed instructions on preparing training data.  
+Please refer to the `script/data_preparation.sh` for detailed instructions on preparing training data.  
 The project supports both `.csv` and `.npy` formats for single-cell perturbation expression matrices.
 
 ---
